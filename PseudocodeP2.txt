@@ -1,0 +1,4 @@
+Start
+Display welcome message
+Display confirmation message
+End

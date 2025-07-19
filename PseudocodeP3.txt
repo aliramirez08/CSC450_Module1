@@ -1,0 +1,6 @@
+Start
+Set myMoney to 1000.50
+Display instruction message
+Display confirmation message
+Display myMoney with label
+End

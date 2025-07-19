@@ -1,0 +1,15 @@
+# Ignore Eclipse project files
+.settings/
+.project
+.cproject
+
+# Ignore build directories
+Debug/
+*.o
+*.d
+*.out
+main
+
+# Ignore Clang config files
+.clangd
+.clang-format

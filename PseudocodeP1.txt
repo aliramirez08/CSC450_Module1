@@ -1,0 +1,8 @@
+Start
+Set first name to "John"
+Set last name to "Doe"
+Set street address to "123 Main Street"
+Set city to "Anytown"
+Set zip code to "12345"
+Display all values to console
+End
